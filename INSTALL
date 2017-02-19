@@ -1,0 +1,9 @@
+Building EroBitsCoin
+
+See doc/readme-qt.rst for instructions on building EroBitsCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of EroBitsCoin.
+
+See doc/build-*.txt for instructions on building EroBitsCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of EroBitsCoin.
